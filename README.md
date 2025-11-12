@@ -18,7 +18,7 @@ https://mohdhasan10.github.io/FUTURE_FS_01/
 ---
 
 ## 📷 Screenshots
-<img width="1873" height="868" alt="image" src="https://github.com/user-attachments/assets/71c23c86-b22a-4692-9e27-cc0a4f475cf9" />
+<img width="1873" height="868" alt="image" src="./assets/b.jpg" />
 <img width="1796" height="863" alt="image" src="https://github.com/user-attachments/assets/151ff839-3174-4a6b-8795-07b006650921" />
 <img width="1790" height="842" alt="image" src="https://github.com/user-attachments/assets/31de61e4-b144-4fe0-acfc-f8f4fb6122c4" />
 
@@ -46,7 +46,7 @@ Feel free to reach out:
 
 - GitHub: [github.com/mohdhasan10](https://github.com/mohdhasan10)
 - LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/md-hasan)
-- Email: md.hasan@example.com
+- Email: md.hasan@gmail.com
 
 ## 📄 License
 This project is licensed under the MIT License – feel free to use and customize it for your own portfolio!

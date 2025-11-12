@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "Personal portfolio website for md.hasan",
   "main": "js/scripts.js",
+  "homepage": "https://mohdhasan10.github.io/FUTURE_FS_01/",
   "scripts": {
-    "watch": "gulp watch"
+    "watch": "gulp watch",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [
     "portfolio",
